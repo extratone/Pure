@@ -2,12 +2,12 @@
 <nav>
 	{{ if $paginator.HasPrev }}
 	<a href="{{ $paginator.Prev.URL }}" title="Previous Page">
-		← Newer Posts
+		← Newer
 	</a>
 	{{ end }}
 	{{ if $paginator.HasNext }}
 	<a href="{{ $paginator.Next.URL }}">
-		Older Posts →
+		Older →
 	</a>
 	{{ end }}
 </nav>

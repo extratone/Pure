@@ -3,8 +3,8 @@
 	--background-alt: #e6e6e6;
 	--text: #222222;
 	--text-alt: #666666;
-	--accent: #ff003f;
-	--accent-alt: #fff7f9;
+	--accent: #00006b;
+	--accent-alt: #da2573;
 }
 
 @media (prefers-color-scheme: dark) {
