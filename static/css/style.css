@@ -1,19 +1,19 @@
 :root {
-	--background: #fff4e6;
+	--background: #f7f7f7;
 	--background-alt: #fffdeb;
-	--text: #1c0021;
+	--text: #020003;
 	--text-alt: #f43f32;
-	--accent: #00006b;
+	--accent: #b1986c;
 	--accent-alt: #da2573;
 }
 
 @media (prefers-color-scheme: dark) {
 	:root {
 		--background: #020003;
-		--background-alt: #000056;
+		--background-alt: #1c0021;
 		--text: #ffe8bd;
-		--text-alt: #fff4e6;
-		--accent-alt: #36fd63;
+		--text-alt: #b1986c;
+		--accent-alt: #cfab73;
 	}
 }
 
