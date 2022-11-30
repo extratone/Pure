@@ -1,10 +1,12 @@
-# Pure
+# Purity
 
 ![hugo version](https://img.shields.io/badge/Hugo-0.91-09f)
 ![license](https://img.shields.io/github/license/chrishannah/pure)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier)
 
-A minimal theme for Micro.blog.
+A minor adaptation of Chris Hannah's "Pure" theme.
+
+Here is his documentation:
 
 This theme was built around a few key ideas:
 
